@@ -1,2 +1,3 @@
 #Workshop_Organized
-This repository contains all the resources for **Introduction to Python** workshop. 
+* This repository contains resources that I use to organize a workshop. 
+* To get the output of a *covid19-analyzing-pandemic-in-python.ipynb*, simply run it jupyter notebook, Google Colab, Kaggle editor, etc. 
